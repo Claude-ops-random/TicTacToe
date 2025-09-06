@@ -22,11 +22,11 @@ Play against a basic AI that chooses moves randomly. The board size is configura
 
 - Clone the repository
 - Install dependencies using your preferred package manager (yarn, npm, pnpm, or bun)
-```bash
+```
 npm install 
 ```
 - Start the development server with your package manager's dev command 
-```bash
+```
 npm run dev 
 ```
 - Open your browser and navigate to `http://localhost:3000` (or the port specified in your terminal)
