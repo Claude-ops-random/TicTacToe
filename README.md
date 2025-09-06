@@ -10,7 +10,7 @@ Play against a basic AI that chooses moves randomly. The board size is configura
 - Win detection for rows, columns, and diagonals.
 - Detects draws when the board is full and no winner.
 - Highlight winning cells.
-- Restart game at the end.
+- Restart game at the end. 
 - Responsive design and scalable board (3x3 by default, can be increased).
 
 ## 🛠 Technology Stack
